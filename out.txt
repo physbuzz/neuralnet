@@ -1,0 +1,1163 @@
+Successfully read 13312 entries from primes.csv.
+Total error after training for 0 steps: 147.404, learning rate: 0.0172768
+Total error after training for 5000 steps: 62.9626, learning rate: 0.00254931
+Total error after training for 10000 steps: 42.1623, learning rate: 0.00111226
+Total error after training for 15000 steps: 36.0235, learning rate: 0.00181175
+Total error after training for 20000 steps: 32.737, learning rate: 0.00105929
+Total error after training for 25000 steps: 57.5107, learning rate: 0.00172547
+Total error after training for 30000 steps: 29.5998, learning rate: 0.00149053
+Total error after training for 35000 steps: 82.1141, learning rate: 0.00863287
+Total error after training for 40000 steps: 54.9472, learning rate: 0.00504746
+Total error after training for 45000 steps: 33.7815, learning rate: 0.00584307
+Total error after training for 50000 steps: 22.197, learning rate: 0.0030987
+Total error after training for 55000 steps: 20.6954, learning rate: 0.00281061
+Total error after training for 60000 steps: 18.8902, learning rate: 0.00504746
+Total error after training for 65000 steps: 14.5098, learning rate: 0.00325364
+Total error after training for 70000 steps: 69.9541, learning rate: 0.00613522
+Total error after training for 75000 steps: 20.1383, learning rate: 0.0170925
+Total error after training for 80000 steps: 51.9551, learning rate: 0.05
+Total error after training for 85000 steps: 50.5671, learning rate: 0.05
+Total error after training for 90000 steps: 66.5254, learning rate: 0.0252534
+Total error after training for 95000 steps: 31.0263, learning rate: 0.00710228
+Total error after training for 100000 steps: 22.9624, learning rate: 0.0121473
+Total error after training for 105000 steps: 27.1097, learning rate: 0.00644198
+Total error after training for 110000 steps: 21.5895, learning rate: 0.0074574
+Total error after training for 115000 steps: 16.0712, learning rate: 0.00613522
+Total error after training for 120000 steps: 25.2892, learning rate: 0.0188445
+Total error after training for 125000 steps: 14.5423, learning rate: 0.00783027
+Total error after training for 130000 steps: 40.4229, learning rate: 0.0252534
+Total error after training for 135000 steps: 12.9811, learning rate: 0.00999363
+Total error after training for 140000 steps: 18.5472, learning rate: 0.00999363
+Total error after training for 145000 steps: 14.0485, learning rate: 0.014062
+Total error after training for 150000 steps: 46.2451, learning rate: 0.00783027
+Total error after training for 155000 steps: 28.9271, learning rate: 0.0104933
+Total error after training for 160000 steps: 55.3943, learning rate: 0.0188445
+Total error after training for 165000 steps: 35.5914, learning rate: 0.00529983
+Total error after training for 170000 steps: 35.0459, learning rate: 0.05
+Total error after training for 175000 steps: 30.9759, learning rate: 0.05
+Total error after training for 180000 steps: 46.0584, learning rate: 0.0179471
+Total error after training for 185000 steps: 33.0561, learning rate: 0.001
+Total error after training for 190000 steps: 33.0327, learning rate: 0.001
+Total error after training for 195000 steps: 33.0237, learning rate: 0.001
+Total error after training for 200000 steps: 32.0206, learning rate: 0.001
+Total error after training for 205000 steps: 32.017, learning rate: 0.001
+Total error after training for 210000 steps: 32.0147, learning rate: 0.001
+Total error after training for 215000 steps: 32.013, learning rate: 0.001
+Total error after training for 220000 steps: 32.0117, learning rate: 0.001
+Total error after training for 225000 steps: 32.0107, learning rate: 0.001
+Total error after training for 230000 steps: 32.0098, learning rate: 0.001
+Total error after training for 235000 steps: 32.0091, learning rate: 0.001
+Total error after training for 240000 steps: 32.0084, learning rate: 0.001
+Total error after training for 245000 steps: 32.0079, learning rate: 0.001
+Total error after training for 250000 steps: 32.0074, learning rate: 0.001
+Total error after training for 255000 steps: 32.0069, learning rate: 0.001
+Total error after training for 260000 steps: 32.0065, learning rate: 0.001
+Total error after training for 265000 steps: 32.0061, learning rate: 0.001
+Total error after training for 270000 steps: 31.0074, learning rate: 0.001
+Total error after training for 275000 steps: 29.0102, learning rate: 0.001
+Total error after training for 280000 steps: 29.0074, learning rate: 0.001
+Total error after training for 285000 steps: 29.0066, learning rate: 0.001
+Total error after training for 290000 steps: 29.0061, learning rate: 0.001
+Total error after training for 295000 steps: 29.0057, learning rate: 0.001
+Total error after training for 300000 steps: 29.0054, learning rate: 0.001
+Total error after training for 305000 steps: 29.0051, learning rate: 0.001
+Total error after training for 310000 steps: 29.0049, learning rate: 0.001
+Total error after training for 315000 steps: 29.0046, learning rate: 0.001
+Total error after training for 320000 steps: 29.0044, learning rate: 0.001
+Total error after training for 325000 steps: 29.0042, learning rate: 0.001
+Total error after training for 330000 steps: 29.004, learning rate: 0.001
+Total error after training for 335000 steps: 29.0038, learning rate: 0.001
+Total error after training for 340000 steps: 29.0037, learning rate: 0.001
+Total error after training for 345000 steps: 29.0035, learning rate: 0.001
+Total error after training for 350000 steps: 29.0033, learning rate: 0.001
+Total error after training for 355000 steps: 29.0032, learning rate: 0.001
+Total error after training for 360000 steps: 29.003, learning rate: 0.001
+Total error after training for 365000 steps: 29.0029, learning rate: 0.001
+Total error after training for 370000 steps: 29.0027, learning rate: 0.001
+Total error after training for 375000 steps: 29.0026, learning rate: 0.001
+Total error after training for 380000 steps: 29.0024, learning rate: 0.001
+Total error after training for 385000 steps: 29.0023, learning rate: 0.001
+Total error after training for 390000 steps: 29.0021, learning rate: 0.001
+Total error after training for 395000 steps: 29.002, learning rate: 0.001
+Total error after training for 400000 steps: 29.0019, learning rate: 0.001
+Total error after training for 405000 steps: 29.0017, learning rate: 0.001
+Total error after training for 410000 steps: 29.0015, learning rate: 0.001
+Total error after training for 415000 steps: 29.0014, learning rate: 0.001
+Total error after training for 420000 steps: 29.0012, learning rate: 0.001
+Total error after training for 425000 steps: 29.001, learning rate: 0.001
+Total error after training for 430000 steps: 29.0008, learning rate: 0.001
+Total error after training for 435000 steps: 29.0006, learning rate: 0.001
+Total error after training for 440000 steps: 29.0004, learning rate: 0.001
+Total error after training for 445000 steps: 29.0001, learning rate: 0.001
+Total error after training for 450000 steps: 28.9999, learning rate: 0.001
+Total error after training for 455000 steps: 28.9996, learning rate: 0.001
+Total error after training for 460000 steps: 28.9992, learning rate: 0.001
+Total error after training for 465000 steps: 28.9988, learning rate: 0.001
+Total error after training for 470000 steps: 28.9983, learning rate: 0.001
+Total error after training for 475000 steps: 28.9977, learning rate: 0.001
+Total error after training for 480000 steps: 28.997, learning rate: 0.001
+Total error after training for 485000 steps: 28.9961, learning rate: 0.001
+Total error after training for 490000 steps: 28.9948, learning rate: 0.001
+Total error after training for 495000 steps: 27.9965, learning rate: 0.001
+w[0] is a 11 by 11 matrix.
+5.11909 -0.859797 4.49279 6.55834 9.41916 -5.21763 5.51902 -14.23 1.33702 2.81228 -6.42366 
+-0.852989 -1.24825 -8.07703 6.17153 9.11473 1.22501 2.89852 -4.40465 -5.65675 -2.11741 12.551 
+-3.16504 7.39809 -4.7847 -1.57772 -7.65116 -0.465839 -8.81155 -15.5155 15.465 5.29974 -1.77093 
+-7.11448 13.1889 -3.11403 -2.88304 11.0157 -10.3527 -3.34935 15.6588 -5.60333 4.98197 5.47491 
+3.5503 -17.9402 -1.99532 -3.00943 6.1023 7.16988 -2.88292 4.53618 -2.57963 7.99508 5.00796 
+-10.0549 -1.19805 -8.80822 5.19182 8.18004 18.3963 -9.59259 11.1959 -1.18143 -8.48566 -2.90907 
+-11.051 9.1044 -16.4944 6.69308 -0.803908 -3.67119 1.13242 6.88907 -14.6823 -2.88429 2.55754 
+-1.19252 0.155882 4.82872 0.354282 8.0135 -5.43663 -3.21261 12.8305 -14.9581 5.95583 5.11362 
+9.11078 -13.5909 -1.32161 -15.4466 0.803562 13.1161 9.12722 -8.07177 -6.62991 -0.78843 -8.45215 
+0.592313 -5.7301 -5.12503 19.2421 -18.2008 2.21353 11.4744 1.51154 4.12087 -8.89854 -7.6767 
+6.43862 -8.4788 7.53829 -11.675 -14.3345 -5.32223 -13.4624 12.3203 17.8034 -10.6362 7.18975 
+w[1] is a 11 by 8 matrix.
+3.79826 2.93583 -2.94265 0.18352 -14.3402 7.13069 -4.08463 0.530601 
+-3.17299 6.08991 -13.9972 -16.0254 7.99308 8.54605 6.23448 -8.07549 
+12.8199 1.46928 16.9367 8.78104 -0.61867 -1.30842 -5.33558 9.82584 
+-10.0825 7.74866 3.35461 -1.26618 -16.8167 10.5154 5.70793 -16.2226 
+-22.4588 5.80223 6.44228 3.39185 -8.87783 -0.247521 19.5533 -16.0518 
+-1.30537 11.3569 -10.592 -7.67101 6.95139 9.01381 4.02825 -9.13542 
+-11.7657 14.1094 7.32591 -9.13157 2.08622 -1.91825 6.37275 1.16225 
+18.9065 -6.83647 1.24124 10.2934 0.357295 -5.04424 -14.5578 16.6509 
+7.86862 3.54227 11.9674 11.5467 12.7085 -7.28861 -7.02016 4.57702 
+-4.60006 -1.1536 -10.3732 -19.1005 -1.91454 8.99904 3.98967 -9.38218 
+8.21142 -0.996299 -3.36099 -10.183 5.91482 -0.499419 -12.6294 7.35779 
+w[2] is a 8 by 4 matrix.
+15.1365 12.0898 -11.6783 -15.8015 
+7.08568 -16.5436 14.9729 4.84581 
+-8.10217 11.2585 -9.18509 -12.7361 
+3.28096 6.45076 -10.2289 10.1505 
+-16.5369 19.4498 7.46116 1.6142 
+2.38558 -17.106 16.6752 8.27893 
+-5.04376 0.677866 8.5917 -17.7494 
+9.52814 12.3403 -13.6275 7.43006 
+w[3] is a 4 by 2 matrix.
+4.96674 -23.8692 
+3.72099 18.7802 
+6.54565 -10.3623 
+4.38617 40.0683 
+NN output for number 0000000000 is: 1.75116e-05 when it should be 0.
+NN output for number 0000000001 is: 0.0119564 when it should be 0.
+NN output for number 0000000010 is: 0.998433 when it should be 1.
+NN output for number 0000000011 is: 1 when it should be 1.
+NN output for number 0000000100 is: 1.74614e-05 when it should be 0.
+NN output for number 0000000101 is: 1 when it should be 1.
+NN output for number 0000000110 is: 7.70197e-06 when it should be 0.
+NN output for number 0000000111 is: 1 when it should be 1.
+NN output for number 0000001000 is: 1.75119e-05 when it should be 0.
+NN output for number 0000001001 is: 0.00669975 when it should be 0.
+NN output for number 0000001010 is: 1.2916e-05 when it should be 0.
+NN output for number 0000001011 is: 1 when it should be 1.
+NN output for number 0000001100 is: 1.74721e-05 when it should be 0.
+NN output for number 0000001101 is: 0.999997 when it should be 1.
+NN output for number 0000001110 is: 1.75117e-05 when it should be 0.
+NN output for number 0000001111 is: 0.0110563 when it should be 0.
+NN output for number 0000010000 is: 3.12786e-15 when it should be 0.
+NN output for number 0000010001 is: 1 when it should be 1.
+NN output for number 0000010010 is: 2.77289e-15 when it should be 0.
+NN output for number 0000010011 is: 1 when it should be 1.
+NN output for number 0000010100 is: 2.74387e-15 when it should be 0.
+NN output for number 0000010101 is: 2.2946e-15 when it should be 0.
+NN output for number 0000010110 is: 2.5673e-15 when it should be 0.
+NN output for number 0000010111 is: 1.23118e-05 when it should be 1.
+NN output for number 0000011000 is: 2.65859e-15 when it should be 0.
+NN output for number 0000011001 is: 1.40758e-15 when it should be 0.
+NN output for number 0000011010 is: 1.13764e-13 when it should be 0.
+NN output for number 0000011011 is: 0.000424542 when it should be 0.
+NN output for number 0000011100 is: 1.01618e-14 when it should be 0.
+NN output for number 0000011101 is: 0.999943 when it should be 1.
+NN output for number 0000011110 is: 9.67019e-06 when it should be 0.
+NN output for number 0000011111 is: 0.999999 when it should be 1.
+NN output for number 0000100000 is: 5.50555e-06 when it should be 0.
+NN output for number 0000100001 is: 2.50839e-08 when it should be 0.
+NN output for number 0000100010 is: 3.37297e-05 when it should be 0.
+NN output for number 0000100011 is: 4.2345e-12 when it should be 0.
+NN output for number 0000100100 is: 1.89299e-09 when it should be 0.
+NN output for number 0000100101 is: 1 when it should be 1.
+NN output for number 0000100110 is: 5.00012e-06 when it should be 0.
+NN output for number 0000100111 is: 7.13513e-13 when it should be 0.
+NN output for number 0000101000 is: 1.24205e-05 when it should be 0.
+NN output for number 0000101001 is: 1 when it should be 1.
+NN output for number 0000101010 is: 1.69716e-05 when it should be 0.
+NN output for number 0000101011 is: 1 when it should be 1.
+NN output for number 0000101100 is: 5.89187e-06 when it should be 0.
+NN output for number 0000101101 is: 0.00798315 when it should be 0.
+NN output for number 0000101110 is: 1.65574e-05 when it should be 0.
+NN output for number 0000101111 is: 1 when it should be 1.
+NN output for number 0000110000 is: 2.6601e-15 when it should be 0.
+NN output for number 0000110001 is: 0.000879706 when it should be 0.
+NN output for number 0000110010 is: 4.07472e-15 when it should be 0.
+NN output for number 0000110011 is: 8.80643e-07 when it should be 0.
+NN output for number 0000110100 is: 1.73691e-05 when it should be 0.
+NN output for number 0000110101 is: 0.993149 when it should be 1.
+NN output for number 0000110110 is: 1.04718e-05 when it should be 0.
+NN output for number 0000110111 is: 1.49592e-15 when it should be 0.
+NN output for number 0000111000 is: 2.66045e-15 when it should be 0.
+NN output for number 0000111001 is: 1.02394e-08 when it should be 0.
+NN output for number 0000111010 is: 2.54717e-15 when it should be 0.
+NN output for number 0000111011 is: 0.996859 when it should be 1.
+NN output for number 0000111100 is: 1.70832e-05 when it should be 0.
+NN output for number 0000111101 is: 0.996008 when it should be 1.
+NN output for number 0000111110 is: 1.70671e-05 when it should be 0.
+NN output for number 0000111111 is: 1.50523e-10 when it should be 0.
+NN output for number 0001000000 is: 1.75112e-05 when it should be 0.
+NN output for number 0001000001 is: 0.00847611 when it should be 0.
+NN output for number 0001000010 is: 8.94342e-07 when it should be 0.
+NN output for number 0001000011 is: 1 when it should be 1.
+NN output for number 0001000100 is: 1.2562e-05 when it should be 0.
+NN output for number 0001000101 is: 1.40037e-15 when it should be 0.
+NN output for number 0001000110 is: 2.65891e-15 when it should be 0.
+NN output for number 0001000111 is: 1 when it should be 1.
+NN output for number 0001001000 is: 1.36005e-15 when it should be 0.
+NN output for number 0001001001 is: 1 when it should be 1.
+NN output for number 0001001010 is: 1.75097e-05 when it should be 0.
+NN output for number 0001001011 is: 1 when it should be 0.
+NN output for number 0001001100 is: 1.74147e-05 when it should be 0.
+NN output for number 0001001101 is: 2.08845e-12 when it should be 0.
+NN output for number 0001001110 is: 1.70679e-05 when it should be 0.
+NN output for number 0001001111 is: 1 when it should be 1.
+NN output for number 0001010000 is: 9.13279e-06 when it should be 0.
+NN output for number 0001010001 is: 0.00704428 when it should be 0.
+NN output for number 0001010010 is: 1.5391e-06 when it should be 0.
+NN output for number 0001010011 is: 1 when it should be 1.
+NN output for number 0001010100 is: 2.65931e-15 when it should be 0.
+NN output for number 0001010101 is: 1.51281e-13 when it should be 0.
+NN output for number 0001010110 is: 2.56434e-15 when it should be 0.
+NN output for number 0001010111 is: 1.3601e-15 when it should be 0.
+NN output for number 0001011000 is: 5.95771e-06 when it should be 0.
+NN output for number 0001011001 is: 2.1507e-14 when it should be 1.
+NN output for number 0001011010 is: 1.7446e-05 when it should be 0.
+NN output for number 0001011011 is: 1.68669e-07 when it should be 0.
+NN output for number 0001011100 is: 2.65897e-15 when it should be 0.
+NN output for number 0001011101 is: 4.54314e-14 when it should be 0.
+NN output for number 0001011110 is: 2.63144e-15 when it should be 0.
+NN output for number 0001011111 is: 1.97528e-08 when it should be 0.
+NN output for number 0001100000 is: 2.6586e-15 when it should be 0.
+NN output for number 0001100001 is: 1 when it should be 1.
+NN output for number 0001100010 is: 2.47139e-09 when it should be 0.
+NN output for number 0001100011 is: 1.93937e-13 when it should be 0.
+NN output for number 0001100100 is: 2.65876e-15 when it should be 0.
+NN output for number 0001100101 is: 0.999999 when it should be 1.
+NN output for number 0001100110 is: 1.54006e-05 when it should be 0.
+NN output for number 0001100111 is: 1 when it should be 1.
+NN output for number 0001101000 is: 2.66087e-15 when it should be 0.
+NN output for number 0001101001 is: 1 when it should be 0.
+NN output for number 0001101010 is: 9.10374e-06 when it should be 0.
+NN output for number 0001101011 is: 1 when it should be 1.
+NN output for number 0001101100 is: 2.65134e-15 when it should be 0.
+NN output for number 0001101101 is: 1 when it should be 1.
+NN output for number 0001101110 is: 1.25122e-05 when it should be 0.
+NN output for number 0001101111 is: 8.07237e-15 when it should be 0.
+NN output for number 0001110000 is: 2.70064e-15 when it should be 0.
+NN output for number 0001110001 is: 0.996426 when it should be 1.
+NN output for number 0001110010 is: 1.70638e-05 when it should be 0.
+NN output for number 0001110011 is: 1.0636e-06 when it should be 0.
+NN output for number 0001110100 is: 1.36961e-05 when it should be 0.
+NN output for number 0001110101 is: 0.00168319 when it should be 0.
+NN output for number 0001110110 is: 1.73623e-05 when it should be 0.
+NN output for number 0001110111 is: 2.18557e-15 when it should be 0.
+NN output for number 0001111000 is: 2.68141e-15 when it should be 0.
+NN output for number 0001111001 is: 9.12742e-15 when it should be 0.
+NN output for number 0001111010 is: 1.69936e-05 when it should be 0.
+NN output for number 0001111011 is: 2.30236e-14 when it should be 0.
+NN output for number 0001111100 is: 2.65556e-15 when it should be 0.
+NN output for number 0001111101 is: 1.84843e-10 when it should be 0.
+NN output for number 0001111110 is: 1.71505e-05 when it should be 0.
+NN output for number 0001111111 is: 0.993663 when it should be 1.
+NN output for number 0010000000 is: 1.71146e-05 when it should be 0.
+NN output for number 0010000001 is: 1 when it should be 0.
+NN output for number 0010000010 is: 1.73873e-05 when it should be 0.
+NN output for number 0010000011 is: 1 when it should be 1.
+NN output for number 0010000100 is: 1.70818e-05 when it should be 0.
+NN output for number 0010000101 is: 0.00669598 when it should be 0.
+NN output for number 0010000110 is: 1.74838e-05 when it should be 0.
+NN output for number 0010000111 is: 0.00747515 when it should be 0.
+NN output for number 0010001000 is: 2.31975e-06 when it should be 0.
+NN output for number 0010001001 is: 0.989521 when it should be 1.
+NN output for number 0010001010 is: 1.73813e-05 when it should be 0.
+NN output for number 0010001011 is: 1 when it should be 1.
+NN output for number 0010001100 is: 4.37123e-15 when it should be 0.
+NN output for number 0010001101 is: 0.00544051 when it should be 0.
+NN output for number 0010001110 is: 1.75113e-05 when it should be 0.
+NN output for number 0010001111 is: 0.012727 when it should be 0.
+NN output for number 0010010000 is: 2.65879e-15 when it should be 0.
+NN output for number 0010010001 is: 3.51682e-05 when it should be 0.
+NN output for number 0010010010 is: 1.3105e-05 when it should be 0.
+NN output for number 0010010011 is: 2.18844e-07 when it should be 0.
+NN output for number 0010010100 is: 9.57771e-09 when it should be 0.
+NN output for number 0010010101 is: 0.999494 when it should be 1.
+NN output for number 0010010110 is: 1.6748e-05 when it should be 0.
+NN output for number 0010010111 is: 1 when it should be 1.
+NN output for number 0010011000 is: 2.65977e-15 when it should be 0.
+NN output for number 0010011001 is: 6.61748e-07 when it should be 0.
+NN output for number 0010011010 is: 2.63667e-15 when it should be 0.
+NN output for number 0010011011 is: 0.000506793 when it should be 0.
+NN output for number 0010011100 is: 7.17124e-05 when it should be 0.
+NN output for number 0010011101 is: 0.991505 when it should be 1.
+NN output for number 0010011110 is: 2.76111e-15 when it should be 0.
+NN output for number 0010011111 is: 0.00510105 when it should be 0.
+NN output for number 0010100000 is: 2.65978e-15 when it should be 0.
+NN output for number 0010100001 is: 0.0093795 when it should be 0.
+NN output for number 0010100010 is: 2.60009e-15 when it should be 0.
+NN output for number 0010100011 is: 0.999896 when it should be 1.
+NN output for number 0010100100 is: 3.09424e-05 when it should be 0.
+NN output for number 0010100101 is: 1.89915e-05 when it should be 0.
+NN output for number 0010100110 is: 1.70595e-05 when it should be 0.
+NN output for number 0010100111 is: 0.999984 when it should be 1.
+NN output for number 0010101000 is: 2.65983e-15 when it should be 0.
+NN output for number 0010101001 is: 3.02727e-05 when it should be 0.
+NN output for number 0010101010 is: 2.74246e-15 when it should be 0.
+NN output for number 0010101011 is: 0.00612594 when it should be 0.
+NN output for number 0010101100 is: 4.85637e-15 when it should be 0.
+NN output for number 0010101101 is: 1 when it should be 1.
+NN output for number 0010101110 is: 1.71407e-05 when it should be 0.
+NN output for number 0010101111 is: 1.54486e-12 when it should be 0.
+NN output for number 0010110000 is: 2.65544e-15 when it should be 0.
+NN output for number 0010110001 is: 3.12514e-15 when it should be 0.
+NN output for number 0010110010 is: 2.57484e-15 when it should be 0.
+NN output for number 0010110011 is: 0.996326 when it should be 1.
+NN output for number 0010110100 is: 1.7048e-06 when it should be 0.
+NN output for number 0010110101 is: 1 when it should be 1.
+NN output for number 0010110110 is: 2.81267e-15 when it should be 0.
+NN output for number 0010110111 is: 3.20559e-15 when it should be 0.
+NN output for number 0010111000 is: 2.66339e-15 when it should be 0.
+NN output for number 0010111001 is: 2.88885e-15 when it should be 0.
+NN output for number 0010111010 is: 1.41811e-05 when it should be 0.
+NN output for number 0010111011 is: 2.95345e-15 when it should be 0.
+NN output for number 0010111100 is: 2.80973e-15 when it should be 0.
+NN output for number 0010111101 is: 0.00667448 when it should be 0.
+NN output for number 0010111110 is: 2.59249e-15 when it should be 0.
+NN output for number 0010111111 is: 2.12601e-13 when it should be 1.
+NN output for number 0011000000 is: 3.11977e-06 when it should be 0.
+NN output for number 0011000001 is: 1 when it should be 1.
+NN output for number 0011000010 is: 1.7318e-05 when it should be 0.
+NN output for number 0011000011 is: 1 when it should be 0.
+NN output for number 0011000100 is: 2.65679e-15 when it should be 0.
+NN output for number 0011000101 is: 1 when it should be 1.
+NN output for number 0011000110 is: 2.64745e-15 when it should be 0.
+NN output for number 0011000111 is: 0.996367 when it should be 1.
+NN output for number 0011001000 is: 1.36158e-15 when it should be 0.
+NN output for number 0011001001 is: 0.00563335 when it should be 0.
+NN output for number 0011001010 is: 1.73869e-05 when it should be 0.
+NN output for number 0011001011 is: 1.52089e-15 when it should be 0.
+NN output for number 0011001100 is: 1.11232e-12 when it should be 0.
+NN output for number 0011001101 is: 0.00567028 when it should be 0.
+NN output for number 0011001110 is: 3.07486e-15 when it should be 0.
+NN output for number 0011001111 is: 0.000187252 when it should be 0.
+NN output for number 0011010000 is: 2.6597e-15 when it should be 0.
+NN output for number 0011010001 is: 4.78781e-08 when it should be 0.
+NN output for number 0011010010 is: 1.73002e-05 when it should be 0.
+NN output for number 0011010011 is: 0.999971 when it should be 1.
+NN output for number 0011010100 is: 2.61584e-15 when it should be 0.
+NN output for number 0011010101 is: 0.000122001 when it should be 0.
+NN output for number 0011010110 is: 2.53761e-15 when it should be 0.
+NN output for number 0011010111 is: 0.00556078 when it should be 0.
+NN output for number 0011011000 is: 2.66253e-15 when it should be 0.
+NN output for number 0011011001 is: 0.00737663 when it should be 0.
+NN output for number 0011011010 is: 1.39157e-05 when it should be 0.
+NN output for number 0011011011 is: 4.72802e-11 when it should be 0.
+NN output for number 0011011100 is: 8.47084e-15 when it should be 0.
+NN output for number 0011011101 is: 1.11967e-14 when it should be 0.
+NN output for number 0011011110 is: 1.73237e-05 when it should be 0.
+NN output for number 0011011111 is: 0.996884 when it should be 1.
+NN output for number 0011100000 is: 2.66112e-15 when it should be 0.
+NN output for number 0011100001 is: 0.010752 when it should be 0.
+NN output for number 0011100010 is: 1.64312e-05 when it should be 0.
+NN output for number 0011100011 is: 3.63636e-14 when it should be 1.
+NN output for number 0011100100 is: 2.65817e-15 when it should be 0.
+NN output for number 0011100101 is: 0.995952 when it should be 1.
+NN output for number 0011100110 is: 1.66165e-05 when it should be 0.
+NN output for number 0011100111 is: 2.40595e-14 when it should be 0.
+NN output for number 0011101000 is: 2.69558e-15 when it should be 0.
+NN output for number 0011101001 is: 0.00462685 when it should be 1.
+NN output for number 0011101010 is: 2.65912e-15 when it should be 0.
+NN output for number 0011101011 is: 0.00209998 when it should be 0.
+NN output for number 0011101100 is: 2.64768e-15 when it should be 0.
+NN output for number 0011101101 is: 5.38397e-08 when it should be 0.
+NN output for number 0011101110 is: 2.55531e-15 when it should be 0.
+NN output for number 0011101111 is: 0.987377 when it should be 1.
+NN output for number 0011110000 is: 2.66955e-15 when it should be 0.
+NN output for number 0011110001 is: 0.993167 when it should be 1.
+NN output for number 0011110010 is: 1.70034e-05 when it should be 0.
+NN output for number 0011110011 is: 2.10134e-08 when it should be 0.
+NN output for number 0011110100 is: 3.45191e-15 when it should be 0.
+NN output for number 0011110101 is: 5.23697e-05 when it should be 0.
+NN output for number 0011110110 is: 1.71026e-05 when it should be 0.
+NN output for number 0011110111 is: 8.24929e-14 when it should be 0.
+NN output for number 0011111000 is: 2.66154e-15 when it should be 0.
+NN output for number 0011111001 is: 5.81187e-11 when it should be 0.
+NN output for number 0011111010 is: 2.65866e-15 when it should be 0.
+NN output for number 0011111011 is: 0.998636 when it should be 1.
+NN output for number 0011111100 is: 2.36314e-11 when it should be 0.
+NN output for number 0011111101 is: 5.20818e-09 when it should be 0.
+NN output for number 0011111110 is: 1.69851e-07 when it should be 0.
+NN output for number 0011111111 is: 1.93997e-14 when it should be 0.
+NN output for number 0100000000 is: 1.83342e-06 when it should be 0.
+NN output for number 0100000001 is: 0.999463 when it should be 1.
+NN output for number 0100000010 is: 1.73719e-05 when it should be 0.
+NN output for number 0100000011 is: 5.48806e-12 when it should be 0.
+NN output for number 0100000100 is: 2.39557e-05 when it should be 0.
+NN output for number 0100000101 is: 1 when it should be 0.
+NN output for number 0100000110 is: 1.72929e-05 when it should be 0.
+NN output for number 0100000111 is: 1 when it should be 1.
+NN output for number 0100001000 is: 1.75093e-05 when it should be 0.
+NN output for number 0100001001 is: 2.43605e-07 when it should be 0.
+NN output for number 0100001010 is: 1.7268e-05 when it should be 0.
+NN output for number 0100001011 is: 0.0018123 when it should be 0.
+NN output for number 0100001100 is: 1.74373e-05 when it should be 0.
+NN output for number 0100001101 is: 1 when it should be 1.
+NN output for number 0100001110 is: 2.65107e-15 when it should be 0.
+NN output for number 0100001111 is: 0.9997 when it should be 1.
+NN output for number 0100010000 is: 2.66826e-15 when it should be 0.
+NN output for number 0100010001 is: 5.15373e-11 when it should be 0.
+NN output for number 0100010010 is: 0.000170021 when it should be 0.
+NN output for number 0100010011 is: 3.17718e-05 when it should be 0.
+NN output for number 0100010100 is: 7.09512e-10 when it should be 0.
+NN output for number 0100010101 is: 1 when it should be 1.
+NN output for number 0100010110 is: 1.13464e-05 when it should be 0.
+NN output for number 0100010111 is: 1.50029e-05 when it should be 0.
+NN output for number 0100011000 is: 2.6596e-15 when it should be 0.
+NN output for number 0100011001 is: 1 when it should be 1.
+NN output for number 0100011010 is: 2.66247e-15 when it should be 0.
+NN output for number 0100011011 is: 0.997593 when it should be 1.
+NN output for number 0100011100 is: 2.8586e-15 when it should be 0.
+NN output for number 0100011101 is: 3.17829e-13 when it should be 0.
+NN output for number 0100011110 is: 2.64178e-15 when it should be 0.
+NN output for number 0100011111 is: 1.79003e-09 when it should be 0.
+NN output for number 0100100000 is: 0.000112387 when it should be 0.
+NN output for number 0100100001 is: 9.20094e-07 when it should be 0.
+NN output for number 0100100010 is: 3.25509e-05 when it should be 0.
+NN output for number 0100100011 is: 1.68079e-05 when it should be 0.
+NN output for number 0100100100 is: 3.31243e-05 when it should be 0.
+NN output for number 0100100101 is: 1 when it should be 1.
+NN output for number 0100100110 is: 1.74286e-05 when it should be 0.
+NN output for number 0100100111 is: 1.02685e-13 when it should be 0.
+NN output for number 0100101000 is: 2.87231e-15 when it should be 0.
+NN output for number 0100101001 is: 0.0118819 when it should be 0.
+NN output for number 0100101010 is: 3.22382e-05 when it should be 0.
+NN output for number 0100101011 is: 7.61078e-07 when it should be 0.
+NN output for number 0100101100 is: 2.66001e-15 when it should be 0.
+NN output for number 0100101101 is: 2.50397e-15 when it should be 0.
+NN output for number 0100101110 is: 1.5687e-05 when it should be 0.
+NN output for number 0100101111 is: 3.73204e-14 when it should be 0.
+NN output for number 0100110000 is: 6.02267e-14 when it should be 0.
+NN output for number 0100110001 is: 5.18372e-12 when it should be 0.
+NN output for number 0100110010 is: 0.000197923 when it should be 0.
+NN output for number 0100110011 is: 1 when it should be 1.
+NN output for number 0100110100 is: 2.66031e-15 when it should be 0.
+NN output for number 0100110101 is: 1.29696e-06 when it should be 0.
+NN output for number 0100110110 is: 8.14486e-06 when it should be 0.
+NN output for number 0100110111 is: 0.99824 when it should be 1.
+NN output for number 0100111000 is: 2.65966e-15 when it should be 0.
+NN output for number 0100111001 is: 0.993663 when it should be 1.
+NN output for number 0100111010 is: 2.0454e-15 when it should be 0.
+NN output for number 0100111011 is: 0.000544253 when it should be 0.
+NN output for number 0100111100 is: 2.65967e-15 when it should be 0.
+NN output for number 0100111101 is: 0.999815 when it should be 1.
+NN output for number 0100111110 is: 1.23849e-05 when it should be 0.
+NN output for number 0100111111 is: 4.60054e-07 when it should be 0.
+NN output for number 0101000000 is: 1.57293e-07 when it should be 0.
+NN output for number 0101000001 is: 2.78569e-07 when it should be 0.
+NN output for number 0101000010 is: 1.27619e-14 when it should be 0.
+NN output for number 0101000011 is: 1.08422e-13 when it should be 0.
+NN output for number 0101000100 is: 1.13293e-05 when it should be 0.
+NN output for number 0101000101 is: 5.20345e-05 when it should be 0.
+NN output for number 0101000110 is: 6.98669e-15 when it should be 0.
+NN output for number 0101000111 is: 5.16893e-07 when it should be 0.
+NN output for number 0101001000 is: 1.74357e-05 when it should be 0.
+NN output for number 0101001001 is: 0.00534062 when it should be 0.
+NN output for number 0101001010 is: 1.74127e-05 when it should be 0.
+NN output for number 0101001011 is: 1 when it should be 1.
+NN output for number 0101001100 is: 7.82996e-15 when it should be 0.
+NN output for number 0101001101 is: 1.3916e-15 when it should be 0.
+NN output for number 0101001110 is: 2.65951e-15 when it should be 0.
+NN output for number 0101001111 is: 1.55864e-05 when it should be 0.
+NN output for number 0101010000 is: 1.4298e-08 when it should be 0.
+NN output for number 0101010001 is: 1 when it should be 1.
+NN output for number 0101010010 is: 3.14842e-05 when it should be 0.
+NN output for number 0101010011 is: 3.65942e-14 when it should be 0.
+NN output for number 0101010100 is: 2.65933e-15 when it should be 0.
+NN output for number 0101010101 is: 9.92813e-11 when it should be 0.
+NN output for number 0101010110 is: 2.65957e-15 when it should be 0.
+NN output for number 0101010111 is: 1.52974e-05 when it should be 0.
+NN output for number 0101011000 is: 2.62942e-15 when it should be 0.
+NN output for number 0101011001 is: 0.00626212 when it should be 0.
+NN output for number 0101011010 is: 1.04831e-10 when it should be 0.
+NN output for number 0101011011 is: 1 when it should be 1.
+NN output for number 0101011100 is: 2.65956e-15 when it should be 0.
+NN output for number 0101011101 is: 5.27481e-15 when it should be 1.
+NN output for number 0101011110 is: 2.65957e-15 when it should be 0.
+NN output for number 0101011111 is: 2.46564e-14 when it should be 0.
+NN output for number 0101100000 is: 8.3013e-08 when it should be 0.
+NN output for number 0101100001 is: 1 when it should be 1.
+NN output for number 0101100010 is: 3.37662e-05 when it should be 0.
+NN output for number 0101100011 is: 2.85542e-14 when it should be 0.
+NN output for number 0101100100 is: 2.70213e-15 when it should be 0.
+NN output for number 0101100101 is: 9.20446e-08 when it should be 0.
+NN output for number 0101100110 is: 1.74871e-05 when it should be 0.
+NN output for number 0101100111 is: 0.996845 when it should be 1.
+NN output for number 0101101000 is: 2.65935e-15 when it should be 0.
+NN output for number 0101101001 is: 2.11604e-07 when it should be 0.
+NN output for number 0101101010 is: 2.37332e-09 when it should be 0.
+NN output for number 0101101011 is: 4.77218e-12 when it should be 0.
+NN output for number 0101101100 is: 2.6596e-15 when it should be 0.
+NN output for number 0101101101 is: 4.94665e-15 when it should be 0.
+NN output for number 0101101110 is: 2.65609e-15 when it should be 0.
+NN output for number 0101101111 is: 1 when it should be 1.
+NN output for number 0101110000 is: 2.65914e-15 when it should be 0.
+NN output for number 0101110001 is: 1.0454e-06 when it should be 0.
+NN output for number 0101110010 is: 0.00544145 when it should be 0.
+NN output for number 0101110011 is: 9.15058e-07 when it should be 0.
+NN output for number 0101110100 is: 2.67756e-15 when it should be 0.
+NN output for number 0101110101 is: 0.999746 when it should be 1.
+NN output for number 0101110110 is: 1.52216e-07 when it should be 0.
+NN output for number 0101110111 is: 5.82291e-15 when it should be 0.
+NN output for number 0101111000 is: 2.66241e-15 when it should be 0.
+NN output for number 0101111001 is: 6.68979e-05 when it should be 0.
+NN output for number 0101111010 is: 2.65821e-15 when it should be 0.
+NN output for number 0101111011 is: 1 when it should be 1.
+NN output for number 0101111100 is: 2.66661e-15 when it should be 0.
+NN output for number 0101111101 is: 1.401e-15 when it should be 0.
+NN output for number 0101111110 is: 8.69441e-15 when it should be 0.
+NN output for number 0101111111 is: 0.996996 when it should be 1.
+NN output for number 0110000000 is: 2.78219e-15 when it should be 0.
+NN output for number 0110000001 is: 5.6057e-06 when it should be 0.
+NN output for number 0110000010 is: 3.99209e-05 when it should be 0.
+NN output for number 0110000011 is: 1.87098e-15 when it should be 0.
+NN output for number 0110000100 is: 3.34338e-14 when it should be 0.
+NN output for number 0110000101 is: 0.999885 when it should be 1.
+NN output for number 0110000110 is: 2.87683e-15 when it should be 0.
+NN output for number 0110000111 is: 0.0145093 when it should be 0.
+NN output for number 0110001000 is: 2.55119e-15 when it should be 0.
+NN output for number 0110001001 is: 2.29317e-07 when it should be 0.
+NN output for number 0110001010 is: 3.38911e-14 when it should be 0.
+NN output for number 0110001011 is: 0.00182837 when it should be 0.
+NN output for number 0110001100 is: 2.65901e-15 when it should be 0.
+NN output for number 0110001101 is: 1 when it should be 1.
+NN output for number 0110001110 is: 2.62133e-15 when it should be 0.
+NN output for number 0110001111 is: 0.00647325 when it should be 0.
+NN output for number 0110010000 is: 2.6596e-15 when it should be 0.
+NN output for number 0110010001 is: 1 when it should be 1.
+NN output for number 0110010010 is: 4.28516e-05 when it should be 0.
+NN output for number 0110010011 is: 0.00312164 when it should be 0.
+NN output for number 0110010100 is: 2.63011e-08 when it should be 0.
+NN output for number 0110010101 is: 1.38284e-14 when it should be 0.
+NN output for number 0110010110 is: 2.66451e-15 when it should be 0.
+NN output for number 0110010111 is: 3.33915e-05 when it should be 0.
+NN output for number 0110011000 is: 2.66271e-15 when it should be 0.
+NN output for number 0110011001 is: 0.991984 when it should be 1.
+NN output for number 0110011010 is: 2.65598e-15 when it should be 0.
+NN output for number 0110011011 is: 1 when it should be 0.
+NN output for number 0110011100 is: 8.87245e-13 when it should be 0.
+NN output for number 0110011101 is: 0.000304301 when it should be 0.
+NN output for number 0110011110 is: 2.65502e-15 when it should be 0.
+NN output for number 0110011111 is: 1.9166e-12 when it should be 0.
+NN output for number 0110100000 is: 2.66467e-06 when it should be 0.
+NN output for number 0110100001 is: 0.00623234 when it should be 0.
+NN output for number 0110100010 is: 7.72112e-05 when it should be 0.
+NN output for number 0110100011 is: 1 when it should be 1.
+NN output for number 0110100100 is: 0.000207336 when it should be 0.
+NN output for number 0110100101 is: 0.999682 when it should be 1.
+NN output for number 0110100110 is: 3.10282e-05 when it should be 0.
+NN output for number 0110100111 is: 1 when it should be 0.
+NN output for number 0110101000 is: 2.6596e-15 when it should be 0.
+NN output for number 0110101001 is: 0.00609148 when it should be 0.
+NN output for number 0110101010 is: 2.65953e-15 when it should be 0.
+NN output for number 0110101011 is: 4.3145e-05 when it should be 0.
+NN output for number 0110101100 is: 0.000200218 when it should be 0.
+NN output for number 0110101101 is: 1.43291e-05 when it should be 0.
+NN output for number 0110101110 is: 2.64568e-15 when it should be 0.
+NN output for number 0110101111 is: 1 when it should be 1.
+NN output for number 0110110000 is: 2.65959e-15 when it should be 0.
+NN output for number 0110110001 is: 0.999537 when it should be 1.
+NN output for number 0110110010 is: 2.70236e-15 when it should be 0.
+NN output for number 0110110011 is: 8.0257e-06 when it should be 0.
+NN output for number 0110110100 is: 0.000132109 when it should be 0.
+NN output for number 0110110101 is: 0.000187314 when it should be 0.
+NN output for number 0110110110 is: 2.66085e-15 when it should be 0.
+NN output for number 0110110111 is: 1 when it should be 1.
+NN output for number 0110111000 is: 2.66044e-15 when it should be 0.
+NN output for number 0110111001 is: 3.61527e-15 when it should be 0.
+NN output for number 0110111010 is: 2.63352e-15 when it should be 0.
+NN output for number 0110111011 is: 1 when it should be 1.
+NN output for number 0110111100 is: 7.45158e-05 when it should be 0.
+NN output for number 0110111101 is: 4.72876e-05 when it should be 0.
+NN output for number 0110111110 is: 2.65977e-15 when it should be 0.
+NN output for number 0110111111 is: 1.50411e-15 when it should be 0.
+NN output for number 0111000000 is: 0.000199638 when it should be 0.
+NN output for number 0111000001 is: 1 when it should be 1.
+NN output for number 0111000010 is: 1.75121e-05 when it should be 0.
+NN output for number 0111000011 is: 0.000126832 when it should be 0.
+NN output for number 0111000100 is: 2.58691e-15 when it should be 0.
+NN output for number 0111000101 is: 2.25255e-15 when it should be 0.
+NN output for number 0111000110 is: 1.56877e-05 when it should be 0.
+NN output for number 0111000111 is: 1.03699e-11 when it should be 0.
+NN output for number 0111001000 is: 2.23653e-15 when it should be 0.
+NN output for number 0111001001 is: 1 when it should be 1.
+NN output for number 0111001010 is: 2.51964e-06 when it should be 0.
+NN output for number 0111001011 is: 0.00524235 when it should be 0.
+NN output for number 0111001100 is: 2.65673e-15 when it should be 0.
+NN output for number 0111001101 is: 1 when it should be 1.
+NN output for number 0111001110 is: 2.57038e-15 when it should be 0.
+NN output for number 0111001111 is: 0.989482 when it should be 1.
+NN output for number 0111010000 is: 2.65961e-15 when it should be 0.
+NN output for number 0111010001 is: 7.08404e-10 when it should be 0.
+NN output for number 0111010010 is: 2.65919e-15 when it should be 0.
+NN output for number 0111010011 is: 0.997653 when it should be 1.
+NN output for number 0111010100 is: 2.79436e-15 when it should be 0.
+NN output for number 0111010101 is: 7.95834e-14 when it should be 0.
+NN output for number 0111010110 is: 2.63359e-15 when it should be 0.
+NN output for number 0111010111 is: 0.00721846 when it should be 0.
+NN output for number 0111011000 is: 2.66323e-15 when it should be 0.
+NN output for number 0111011001 is: 0.00213182 when it should be 0.
+NN output for number 0111011010 is: 2.65967e-15 when it should be 0.
+NN output for number 0111011011 is: 8.90729e-10 when it should be 0.
+NN output for number 0111011100 is: 1.43312e-12 when it should be 0.
+NN output for number 0111011101 is: 5.59222e-15 when it should be 0.
+NN output for number 0111011110 is: 1.74508e-05 when it should be 0.
+NN output for number 0111011111 is: 0.999999 when it should be 1.
+NN output for number 0111100000 is: 2.09067e-05 when it should be 0.
+NN output for number 0111100001 is: 6.38439e-11 when it should be 0.
+NN output for number 0111100010 is: 6.72272e-06 when it should be 0.
+NN output for number 0111100011 is: 1.95926e-06 when it should be 0.
+NN output for number 0111100100 is: 0.000189429 when it should be 0.
+NN output for number 0111100101 is: 3.74547e-12 when it should be 0.
+NN output for number 0111100110 is: 1.74824e-05 when it should be 0.
+NN output for number 0111100111 is: 1 when it should be 1.
+NN output for number 0111101000 is: 2.66179e-15 when it should be 0.
+NN output for number 0111101001 is: 0.00638755 when it should be 0.
+NN output for number 0111101010 is: 2.65919e-15 when it should be 0.
+NN output for number 0111101011 is: 2.00515e-14 when it should be 1.
+NN output for number 0111101100 is: 3.08738e-15 when it should be 0.
+NN output for number 0111101101 is: 3.07624e-12 when it should be 0.
+NN output for number 0111101110 is: 2.65868e-15 when it should be 0.
+NN output for number 0111101111 is: 1.5415e-14 when it should be 0.
+NN output for number 0111110000 is: 2.6706e-15 when it should be 0.
+NN output for number 0111110001 is: 1.08942e-11 when it should be 0.
+NN output for number 0111110010 is: 2.65977e-15 when it should be 0.
+NN output for number 0111110011 is: 1 when it should be 1.
+NN output for number 0111110100 is: 3.12528e-15 when it should be 0.
+NN output for number 0111110101 is: 0.00814009 when it should be 0.
+NN output for number 0111110110 is: 5.83364e-06 when it should be 0.
+NN output for number 0111110111 is: 1.10655e-06 when it should be 1.
+NN output for number 0111111000 is: 2.66136e-15 when it should be 0.
+NN output for number 0111111001 is: 3.27219e-15 when it should be 0.
+NN output for number 0111111010 is: 2.65987e-15 when it should be 0.
+NN output for number 0111111011 is: 7.81537e-13 when it should be 0.
+NN output for number 0111111100 is: 6.19389e-15 when it should be 0.
+NN output for number 0111111101 is: 0.999999 when it should be 1.
+NN output for number 0111111110 is: 2.65489e-15 when it should be 0.
+NN output for number 0111111111 is: 0.000744478 when it should be 0.
+NN output for number 1000000000 is: 1.27727e-05 when it should be 0.
+NN output for number 1000000001 is: 3.27074e-14 when it should be 0.
+NN output for number 1000000010 is: 1.74249e-05 when it should be 0.
+NN output for number 1000000011 is: 1.39867e-15 when it should be 0.
+NN output for number 1000000100 is: 2.60385e-15 when it should be 0.
+NN output for number 1000000101 is: 0.00731973 when it should be 0.
+NN output for number 1000000110 is: 7.41574e-06 when it should be 0.
+NN output for number 1000000111 is: 1.63492e-05 when it should be 0.
+NN output for number 1000001000 is: 1.75114e-05 when it should be 0.
+NN output for number 1000001001 is: 1 when it should be 1.
+NN output for number 1000001010 is: 1.75092e-05 when it should be 0.
+NN output for number 1000001011 is: 1 when it should be 1.
+NN output for number 1000001100 is: 2.59966e-15 when it should be 0.
+NN output for number 1000001101 is: 2.11573e-14 when it should be 0.
+NN output for number 1000001110 is: 1.41813e-05 when it should be 0.
+NN output for number 1000001111 is: 0.000139612 when it should be 0.
+NN output for number 1000010000 is: 6.65556e-15 when it should be 0.
+NN output for number 1000010001 is: 4.26324e-07 when it should be 0.
+NN output for number 1000010010 is: 1.20413e-12 when it should be 0.
+NN output for number 1000010011 is: 0.00647999 when it should be 0.
+NN output for number 1000010100 is: 2.44082e-06 when it should be 0.
+NN output for number 1000010101 is: 4.52003e-06 when it should be 0.
+NN output for number 1000010110 is: 5.3088e-07 when it should be 0.
+NN output for number 1000010111 is: 2.54969e-15 when it should be 0.
+NN output for number 1000011000 is: 2.65921e-15 when it should be 0.
+NN output for number 1000011001 is: 1.37517e-07 when it should be 0.
+NN output for number 1000011010 is: 1.52194e-05 when it should be 0.
+NN output for number 1000011011 is: 0.000491078 when it should be 0.
+NN output for number 1000011100 is: 2.55071e-15 when it should be 0.
+NN output for number 1000011101 is: 1 when it should be 1.
+NN output for number 1000011110 is: 1.67952e-05 when it should be 0.
+NN output for number 1000011111 is: 0.000347956 when it should be 0.
+NN output for number 1000100000 is: 2.56988e-15 when it should be 0.
+NN output for number 1000100001 is: 4.94442e-14 when it should be 0.
+NN output for number 1000100010 is: 1.75005e-05 when it should be 0.
+NN output for number 1000100011 is: 1 when it should be 1.
+NN output for number 1000100100 is: 1.47825e-05 when it should be 0.
+NN output for number 1000100101 is: 3.59531e-05 when it should be 0.
+NN output for number 1000100110 is: 1.53687e-05 when it should be 0.
+NN output for number 1000100111 is: 1.40726e-05 when it should be 0.
+NN output for number 1000101000 is: 3.74003e-15 when it should be 0.
+NN output for number 1000101001 is: 1.37193e-15 when it should be 0.
+NN output for number 1000101010 is: 1.71925e-05 when it should be 0.
+NN output for number 1000101011 is: 2.97632e-14 when it should be 0.
+NN output for number 1000101100 is: 2.5414e-06 when it should be 0.
+NN output for number 1000101101 is: 0.994914 when it should be 1.
+NN output for number 1000101110 is: 1.60969e-05 when it should be 0.
+NN output for number 1000101111 is: 1.33561e-05 when it should be 0.
+NN output for number 1000110000 is: 3.0792e-15 when it should be 0.
+NN output for number 1000110001 is: 1.05445e-14 when it should be 0.
+NN output for number 1000110010 is: 1.51743e-12 when it should be 0.
+NN output for number 1000110011 is: 0.999424 when it should be 1.
+NN output for number 1000110100 is: 1.73627e-05 when it should be 0.
+NN output for number 1000110101 is: 1.10757e-10 when it should be 0.
+NN output for number 1000110110 is: 1.73924e-05 when it should be 0.
+NN output for number 1000110111 is: 1.90173e-14 when it should be 0.
+NN output for number 1000111000 is: 2.8374e-15 when it should be 0.
+NN output for number 1000111001 is: 1.93724e-10 when it should be 1.
+NN output for number 1000111010 is: 2.5693e-15 when it should be 0.
+NN output for number 1000111011 is: 0.997081 when it should be 1.
+NN output for number 1000111100 is: 1.66817e-05 when it should be 0.
+NN output for number 1000111101 is: 1.24212e-08 when it should be 0.
+NN output for number 1000111110 is: 1.70997e-05 when it should be 0.
+NN output for number 1000111111 is: 1.53359e-05 when it should be 0.
+NN output for number 1001000000 is: 2.65915e-15 when it should be 0.
+NN output for number 1001000001 is: 0.995193 when it should be 1.
+NN output for number 1001000010 is: 2.54341e-15 when it should be 0.
+NN output for number 1001000011 is: 4.07677e-15 when it should be 0.
+NN output for number 1001000100 is: 2.65993e-15 when it should be 0.
+NN output for number 1001000101 is: 8.26705e-05 when it should be 0.
+NN output for number 1001000110 is: 8.28292e-08 when it should be 0.
+NN output for number 1001000111 is: 0.000593944 when it should be 0.
+NN output for number 1001001000 is: 1.65974e-05 when it should be 0.
+NN output for number 1001001001 is: 0.00234765 when it should be 0.
+NN output for number 1001001010 is: 2.56397e-15 when it should be 0.
+NN output for number 1001001011 is: 1 when it should be 1.
+NN output for number 1001001100 is: 2.65999e-15 when it should be 0.
+NN output for number 1001001101 is: 5.65736e-14 when it should be 0.
+NN output for number 1001001110 is: 2.65814e-15 when it should be 0.
+NN output for number 1001001111 is: 1.39349e-15 when it should be 0.
+NN output for number 1001010000 is: 4.48104e-14 when it should be 0.
+NN output for number 1001010001 is: 0.997086 when it should be 1.
+NN output for number 1001010010 is: 1.61802e-05 when it should be 0.
+NN output for number 1001010011 is: 0.000717992 when it should be 0.
+NN output for number 1001010100 is: 2.65948e-15 when it should be 0.
+NN output for number 1001010101 is: 2.55536e-15 when it should be 0.
+NN output for number 1001010110 is: 1.38091e-05 when it should be 0.
+NN output for number 1001010111 is: 0.997096 when it should be 1.
+NN output for number 1001011000 is: 1.64253e-05 when it should be 0.
+NN output for number 1001011001 is: 0.9971 when it should be 1.
+NN output for number 1001011010 is: 1.68729e-05 when it should be 0.
+NN output for number 1001011011 is: 5.87221e-05 when it should be 0.
+NN output for number 1001011100 is: 2.65944e-15 when it should be 0.
+NN output for number 1001011101 is: 0.00101724 when it should be 0.
+NN output for number 1001011110 is: 2.65803e-15 when it should be 0.
+NN output for number 1001011111 is: 0.997108 when it should be 1.
+NN output for number 1001100000 is: 2.65927e-15 when it should be 0.
+NN output for number 1001100001 is: 8.38712e-14 when it should be 0.
+NN output for number 1001100010 is: 1.6493e-05 when it should be 0.
+NN output for number 1001100011 is: 5.04282e-14 when it should be 0.
+NN output for number 1001100100 is: 2.55368e-15 when it should be 0.
+NN output for number 1001100101 is: 1 when it should be 1.
+NN output for number 1001100110 is: 1.52337e-05 when it should be 0.
+NN output for number 1001100111 is: 2.69124e-11 when it should be 0.
+NN output for number 1001101000 is: 2.6978e-15 when it should be 0.
+NN output for number 1001101001 is: 0.997066 when it should be 1.
+NN output for number 1001101010 is: 1.50679e-05 when it should be 0.
+NN output for number 1001101011 is: 0.997072 when it should be 1.
+NN output for number 1001101100 is: 2.68249e-15 when it should be 0.
+NN output for number 1001101101 is: 0.000233603 when it should be 0.
+NN output for number 1001101110 is: 1.62831e-05 when it should be 0.
+NN output for number 1001101111 is: 4.69619e-12 when it should be 0.
+NN output for number 1001110000 is: 3.25935e-15 when it should be 0.
+NN output for number 1001110001 is: 7.42658e-15 when it should be 0.
+NN output for number 1001110010 is: 1.66416e-05 when it should be 0.
+NN output for number 1001110011 is: 1.14432e-14 when it should be 0.
+NN output for number 1001110100 is: 1.38321e-05 when it should be 0.
+NN output for number 1001110101 is: 1.74345e-07 when it should be 0.
+NN output for number 1001110110 is: 1.73918e-05 when it should be 0.
+NN output for number 1001110111 is: 0.99712 when it should be 1.
+NN output for number 1001111000 is: 2.69778e-15 when it should be 0.
+NN output for number 1001111001 is: 7.00148e-15 when it should be 0.
+NN output for number 1001111010 is: 1.64349e-05 when it should be 0.
+NN output for number 1001111011 is: 7.1679e-15 when it should be 0.
+NN output for number 1001111100 is: 2.63374e-15 when it should be 0.
+NN output for number 1001111101 is: 3.05049e-08 when it should be 0.
+NN output for number 1001111110 is: 1.73489e-05 when it should be 0.
+NN output for number 1001111111 is: 6.17335e-12 when it should be 0.
+NN output for number 1010000000 is: 2.6595e-15 when it should be 0.
+NN output for number 1010000001 is: 1 when it should be 1.
+NN output for number 1010000010 is: 1.58526e-13 when it should be 0.
+NN output for number 1010000011 is: 0.999999 when it should be 1.
+NN output for number 1010000100 is: 2.64466e-15 when it should be 0.
+NN output for number 1010000101 is: 0.00673068 when it should be 0.
+NN output for number 1010000110 is: 1.73537e-05 when it should be 0.
+NN output for number 1010000111 is: 0.999999 when it should be 1.
+NN output for number 1010001000 is: 2.65769e-15 when it should be 0.
+NN output for number 1010001001 is: 7.63057e-06 when it should be 0.
+NN output for number 1010001010 is: 2.65862e-15 when it should be 0.
+NN output for number 1010001011 is: 0.000126668 when it should be 0.
+NN output for number 1010001100 is: 2.37579e-10 when it should be 0.
+NN output for number 1010001101 is: 0.999749 when it should be 1.
+NN output for number 1010001110 is: 1.6041e-05 when it should be 0.
+NN output for number 1010001111 is: 4.32106e-09 when it should be 0.
+NN output for number 1010010000 is: 2.65875e-15 when it should be 0.
+NN output for number 1010010001 is: 2.87924e-15 when it should be 0.
+NN output for number 1010010010 is: 3.62964e-07 when it should be 0.
+NN output for number 1010010011 is: 0.997111 when it should be 1.
+NN output for number 1010010100 is: 2.6692e-15 when it should be 0.
+NN output for number 1010010101 is: 1 when it should be 1.
+NN output for number 1010010110 is: 1.73486e-05 when it should be 0.
+NN output for number 1010010111 is: 0.000378784 when it should be 0.
+NN output for number 1010011000 is: 2.65934e-15 when it should be 0.
+NN output for number 1010011001 is: 2.78471e-15 when it should be 0.
+NN output for number 1010011010 is: 2.55526e-15 when it should be 0.
+NN output for number 1010011011 is: 1.23076e-14 when it should be 0.
+NN output for number 1010011100 is: 2.66352e-15 when it should be 0.
+NN output for number 1010011101 is: 0.00622081 when it should be 0.
+NN output for number 1010011110 is: 6.43779e-06 when it should be 0.
+NN output for number 1010011111 is: 5.84559e-06 when it should be 0.
+NN output for number 1010100000 is: 2.80088e-15 when it should be 0.
+NN output for number 1010100001 is: 0.999556 when it should be 1.
+NN output for number 1010100010 is: 2.92951e-15 when it should be 0.
+NN output for number 1010100011 is: 2.08555e-13 when it should be 0.
+NN output for number 1010100100 is: 1.78323e-05 when it should be 0.
+NN output for number 1010100101 is: 0.999998 when it should be 1.
+NN output for number 1010100110 is: 1.73849e-05 when it should be 0.
+NN output for number 1010100111 is: 2.75981e-09 when it should be 0.
+NN output for number 1010101000 is: 2.66154e-15 when it should be 0.
+NN output for number 1010101001 is: 3.37688e-15 when it should be 0.
+NN output for number 1010101010 is: 2.78908e-15 when it should be 0.
+NN output for number 1010101011 is: 0.998324 when it should be 1.
+NN output for number 1010101100 is: 3.03783e-15 when it should be 0.
+NN output for number 1010101101 is: 2.21325e-06 when it should be 0.
+NN output for number 1010101110 is: 1.73012e-05 when it should be 0.
+NN output for number 1010101111 is: 1.3541e-06 when it should be 0.
+NN output for number 1010110000 is: 2.68248e-15 when it should be 0.
+NN output for number 1010110001 is: 2.86102e-15 when it should be 0.
+NN output for number 1010110010 is: 3.73769e-15 when it should be 0.
+NN output for number 1010110011 is: 2.91752e-15 when it should be 1.
+NN output for number 1010110100 is: 4.41288e-15 when it should be 0.
+NN output for number 1010110101 is: 0.00430901 when it should be 0.
+NN output for number 1010110110 is: 6.30441e-06 when it should be 0.
+NN output for number 1010110111 is: 1.66053e-05 when it should be 0.
+NN output for number 1010111000 is: 2.67931e-15 when it should be 0.
+NN output for number 1010111001 is: 2.86636e-15 when it should be 0.
+NN output for number 1010111010 is: 1.72427e-09 when it should be 0.
+NN output for number 1010111011 is: 2.87565e-15 when it should be 0.
+NN output for number 1010111100 is: 3.4234e-15 when it should be 0.
+NN output for number 1010111101 is: 0.991536 when it should be 1.
+NN output for number 1010111110 is: 1.96369e-13 when it should be 0.
+NN output for number 1010111111 is: 5.10532e-06 when it should be 0.
+NN output for number 1011000000 is: 4.35921e-06 when it should be 0.
+NN output for number 1011000001 is: 0.00629875 when it should be 0.
+NN output for number 1011000010 is: 9.20628e-06 when it should be 0.
+NN output for number 1011000011 is: 0.00091238 when it should be 0.
+NN output for number 1011000100 is: 2.6601e-15 when it should be 0.
+NN output for number 1011000101 is: 3.22579e-14 when it should be 1.
+NN output for number 1011000110 is: 2.65838e-15 when it should be 0.
+NN output for number 1011000111 is: 1.57278e-06 when it should be 0.
+NN output for number 1011001000 is: 3.52758e-15 when it should be 0.
+NN output for number 1011001001 is: 0.00565272 when it should be 0.
+NN output for number 1011001010 is: 1.36432e-05 when it should be 0.
+NN output for number 1011001011 is: 8.03726e-10 when it should be 0.
+NN output for number 1011001100 is: 2.65435e-08 when it should be 0.
+NN output for number 1011001101 is: 0.0056622 when it should be 0.
+NN output for number 1011001110 is: 2.66177e-15 when it should be 0.
+NN output for number 1011001111 is: 0.994276 when it should be 1.
+NN output for number 1011010000 is: 2.65791e-15 when it should be 0.
+NN output for number 1011010001 is: 3.15681e-12 when it should be 0.
+NN output for number 1011010010 is: 1.71861e-05 when it should be 0.
+NN output for number 1011010011 is: 5.27949e-06 when it should be 0.
+NN output for number 1011010100 is: 6.9758e-14 when it should be 0.
+NN output for number 1011010101 is: 0.00268671 when it should be 0.
+NN output for number 1011010110 is: 2.58317e-15 when it should be 0.
+NN output for number 1011010111 is: 2.03975e-06 when it should be 1.
+NN output for number 1011011000 is: 2.65978e-15 when it should be 0.
+NN output for number 1011011001 is: 1.85093e-13 when it should be 0.
+NN output for number 1011011010 is: 1.62064e-05 when it should be 0.
+NN output for number 1011011011 is: 0.000131208 when it should be 0.
+NN output for number 1011011100 is: 2.92074e-07 when it should be 0.
+NN output for number 1011011101 is: 2.28052e-14 when it should be 1.
+NN output for number 1011011110 is: 1.5126e-06 when it should be 0.
+NN output for number 1011011111 is: 9.43653e-07 when it should be 0.
+NN output for number 1011100000 is: 2.69352e-15 when it should be 0.
+NN output for number 1011100001 is: 1.06398e-06 when it should be 0.
+NN output for number 1011100010 is: 1.60716e-05 when it should be 0.
+NN output for number 1011100011 is: 2.10517e-11 when it should be 1.
+NN output for number 1011100100 is: 5.04723e-15 when it should be 0.
+NN output for number 1011100101 is: 0.00222452 when it should be 0.
+NN output for number 1011100110 is: 1.70648e-05 when it should be 0.
+NN output for number 1011100111 is: 0.990965 when it should be 1.
+NN output for number 1011101000 is: 2.69329e-15 when it should be 0.
+NN output for number 1011101001 is: 2.34347e-07 when it should be 0.
+NN output for number 1011101010 is: 2.65472e-15 when it should be 0.
+NN output for number 1011101011 is: 1.12356e-14 when it should be 0.
+NN output for number 1011101100 is: 0.000386669 when it should be 0.
+NN output for number 1011101101 is: 2.38453e-14 when it should be 0.
+NN output for number 1011101110 is: 2.60376e-15 when it should be 0.
+NN output for number 1011101111 is: 0.997091 when it should be 1.
+NN output for number 1011110000 is: 2.66349e-15 when it should be 0.
+NN output for number 1011110001 is: 6.30099e-15 when it should be 0.
+NN output for number 1011110010 is: 1.63108e-05 when it should be 0.
+NN output for number 1011110011 is: 7.11297e-15 when it should be 0.
+NN output for number 1011110100 is: 2.60109e-15 when it should be 0.
+NN output for number 1011110101 is: 0.988925 when it should be 1.
+NN output for number 1011110110 is: 1.73029e-05 when it should be 0.
+NN output for number 1011110111 is: 8.6722e-06 when it should be 0.
+NN output for number 1011111000 is: 2.66172e-15 when it should be 0.
+NN output for number 1011111001 is: 0.996218 when it should be 1.
+NN output for number 1011111010 is: 1.08343e-11 when it should be 0.
+NN output for number 1011111011 is: 0.00667424 when it should be 0.
+NN output for number 1011111100 is: 2.66217e-15 when it should be 0.
+NN output for number 1011111101 is: 0.0116575 when it should be 0.
+NN output for number 1011111110 is: 1.03583e-05 when it should be 0.
+NN output for number 1011111111 is: 3.0703e-15 when it should be 0.
+NN output for number 1100000000 is: 2.62464e-15 when it should be 0.
+NN output for number 1100000001 is: 1 when it should be 1.
+NN output for number 1100000010 is: 1.67399e-05 when it should be 0.
+NN output for number 1100000011 is: 1.41351e-15 when it should be 0.
+NN output for number 1100000100 is: 8.99802e-06 when it should be 0.
+NN output for number 1100000101 is: 1 when it should be 1.
+NN output for number 1100000110 is: 1.71743e-05 when it should be 0.
+NN output for number 1100000111 is: 1.69765e-05 when it should be 0.
+NN output for number 1100001000 is: 2.6596e-15 when it should be 0.
+NN output for number 1100001001 is: 1.36019e-15 when it should be 0.
+NN output for number 1100001010 is: 1.2668e-06 when it should be 0.
+NN output for number 1100001011 is: 1.08629e-10 when it should be 0.
+NN output for number 1100001100 is: 2.65962e-15 when it should be 0.
+NN output for number 1100001101 is: 1.16393e-14 when it should be 0.
+NN output for number 1100001110 is: 2.65275e-15 when it should be 0.
+NN output for number 1100001111 is: 7.31483e-05 when it should be 0.
+NN output for number 1100010000 is: 2.65966e-15 when it should be 0.
+NN output for number 1100010001 is: 4.31124e-11 when it should be 0.
+NN output for number 1100010010 is: 5.89052e-05 when it should be 0.
+NN output for number 1100010011 is: 0.996722 when it should be 1.
+NN output for number 1100010100 is: 2.6596e-15 when it should be 0.
+NN output for number 1100010101 is: 1.11507e-06 when it should be 0.
+NN output for number 1100010110 is: 6.62508e-15 when it should be 0.
+NN output for number 1100010111 is: 1.49622e-05 when it should be 0.
+NN output for number 1100011000 is: 2.65962e-15 when it should be 0.
+NN output for number 1100011001 is: 2.63528e-15 when it should be 0.
+NN output for number 1100011010 is: 2.68958e-15 when it should be 0.
+NN output for number 1100011011 is: 0.00127189 when it should be 0.
+NN output for number 1100011100 is: 2.6596e-15 when it should be 0.
+NN output for number 1100011101 is: 1.62365e-14 when it should be 1.
+NN output for number 1100011110 is: 3.47594e-06 when it should be 0.
+NN output for number 1100011111 is: 0.00120479 when it should be 0.
+NN output for number 1100100000 is: 0.000196373 when it should be 0.
+NN output for number 1100100001 is: 3.14528e-05 when it should be 0.
+NN output for number 1100100010 is: 3.15765e-05 when it should be 0.
+NN output for number 1100100011 is: 0.00432078 when it should be 0.
+NN output for number 1100100100 is: 7.28764e-09 when it should be 0.
+NN output for number 1100100101 is: 3.23145e-05 when it should be 0.
+NN output for number 1100100110 is: 1.65753e-05 when it should be 0.
+NN output for number 1100100111 is: 3.90233e-08 when it should be 0.
+NN output for number 1100101000 is: 2.67639e-15 when it should be 0.
+NN output for number 1100101001 is: 0.999708 when it should be 1.
+NN output for number 1100101010 is: 1.8197e-09 when it should be 0.
+NN output for number 1100101011 is: 1 when it should be 1.
+NN output for number 1100101100 is: 2.65957e-15 when it should be 0.
+NN output for number 1100101101 is: 7.09537e-05 when it should be 0.
+NN output for number 1100101110 is: 1.71275e-05 when it should be 0.
+NN output for number 1100101111 is: 4.68213e-12 when it should be 0.
+NN output for number 1100110000 is: 2.77792e-15 when it should be 0.
+NN output for number 1100110001 is: 0.000196773 when it should be 0.
+NN output for number 1100110010 is: 6.00882e-05 when it should be 0.
+NN output for number 1100110011 is: 8.05738e-12 when it should be 0.
+NN output for number 1100110100 is: 2.7292e-15 when it should be 0.
+NN output for number 1100110101 is: 0.997453 when it should be 1.
+NN output for number 1100110110 is: 1.66835e-05 when it should be 0.
+NN output for number 1100110111 is: 0.99544 when it should be 1.
+NN output for number 1100111000 is: 2.69123e-15 when it should be 0.
+NN output for number 1100111001 is: 2.78388e-15 when it should be 0.
+NN output for number 1100111010 is: 2.7421e-15 when it should be 0.
+NN output for number 1100111011 is: 1 when it should be 1.
+NN output for number 1100111100 is: 2.65967e-15 when it should be 0.
+NN output for number 1100111101 is: 1 when it should be 1.
+NN output for number 1100111110 is: 1.73876e-05 when it should be 0.
+NN output for number 1100111111 is: 2.27562e-14 when it should be 0.
+NN output for number 1101000000 is: 2.59873e-15 when it should be 0.
+NN output for number 1101000001 is: 2.59258e-10 when it should be 0.
+NN output for number 1101000010 is: 3.03454e-15 when it should be 0.
+NN output for number 1101000011 is: 1.36132e-15 when it should be 0.
+NN output for number 1101000100 is: 7.49713e-07 when it should be 0.
+NN output for number 1101000101 is: 0.000537804 when it should be 0.
+NN output for number 1101000110 is: 2.27791e-06 when it should be 0.
+NN output for number 1101000111 is: 0.997217 when it should be 1.
+NN output for number 1101001000 is: 2.65513e-15 when it should be 0.
+NN output for number 1101001001 is: 1.36079e-15 when it should be 0.
+NN output for number 1101001010 is: 2.68628e-15 when it should be 0.
+NN output for number 1101001011 is: 1.36061e-15 when it should be 0.
+NN output for number 1101001100 is: 2.66004e-15 when it should be 0.
+NN output for number 1101001101 is: 1.2046e-07 when it should be 0.
+NN output for number 1101001110 is: 2.65501e-15 when it should be 0.
+NN output for number 1101001111 is: 1.83515e-13 when it should be 0.
+NN output for number 1101010000 is: 2.64899e-15 when it should be 0.
+NN output for number 1101010001 is: 1.52145e-05 when it should be 0.
+NN output for number 1101010010 is: 2.78969e-15 when it should be 0.
+NN output for number 1101010011 is: 1.44069e-15 when it should be 0.
+NN output for number 1101010100 is: 2.65956e-15 when it should be 0.
+NN output for number 1101010101 is: 1 when it should be 1.
+NN output for number 1101010110 is: 2.65915e-15 when it should be 0.
+NN output for number 1101010111 is: 8.32247e-05 when it should be 0.
+NN output for number 1101011000 is: 2.58884e-15 when it should be 0.
+NN output for number 1101011001 is: 1.94215e-14 when it should be 1.
+NN output for number 1101011010 is: 1.41406e-05 when it should be 0.
+NN output for number 1101011011 is: 1 when it should be 1.
+NN output for number 1101011100 is: 2.65954e-15 when it should be 0.
+NN output for number 1101011101 is: 2.66027e-15 when it should be 0.
+NN output for number 1101011110 is: 2.6586e-15 when it should be 0.
+NN output for number 1101011111 is: 0.997098 when it should be 1.
+NN output for number 1101100000 is: 2.53715e-14 when it should be 0.
+NN output for number 1101100001 is: 1.62111e-05 when it should be 0.
+NN output for number 1101100010 is: 2.0522e-07 when it should be 0.
+NN output for number 1101100011 is: 1.52237e-15 when it should be 0.
+NN output for number 1101100100 is: 2.65926e-15 when it should be 0.
+NN output for number 1101100101 is: 6.6018e-05 when it should be 0.
+NN output for number 1101100110 is: 1.63362e-05 when it should be 0.
+NN output for number 1101100111 is: 1.24083e-11 when it should be 0.
+NN output for number 1101101000 is: 2.6596e-15 when it should be 0.
+NN output for number 1101101001 is: 1.83967e-15 when it should be 0.
+NN output for number 1101101010 is: 2.65959e-15 when it should be 0.
+NN output for number 1101101011 is: 7.69417e-14 when it should be 0.
+NN output for number 1101101100 is: 2.65966e-15 when it should be 0.
+NN output for number 1101101101 is: 1 when it should be 1.
+NN output for number 1101101110 is: 2.62632e-15 when it should be 0.
+NN output for number 1101101111 is: 0.0016194 when it should be 0.
+NN output for number 1101110000 is: 2.6596e-15 when it should be 0.
+NN output for number 1101110001 is: 1 when it should be 1.
+NN output for number 1101110010 is: 1.785e-10 when it should be 0.
+NN output for number 1101110011 is: 1 when it should be 1.
+NN output for number 1101110100 is: 2.65952e-15 when it should be 0.
+NN output for number 1101110101 is: 0.00057475 when it should be 0.
+NN output for number 1101110110 is: 1.73901e-05 when it should be 0.
+NN output for number 1101110111 is: 2.35488e-15 when it should be 1.
+NN output for number 1101111000 is: 2.66096e-15 when it should be 0.
+NN output for number 1101111001 is: 5.57031e-15 when it should be 0.
+NN output for number 1101111010 is: 2.7815e-15 when it should be 0.
+NN output for number 1101111011 is: 2.38993e-15 when it should be 0.
+NN output for number 1101111100 is: 2.6596e-15 when it should be 0.
+NN output for number 1101111101 is: 1.5921e-05 when it should be 0.
+NN output for number 1101111110 is: 1.51263e-05 when it should be 0.
+NN output for number 1101111111 is: 6.89548e-08 when it should be 0.
+NN output for number 1110000000 is: 2.93225e-10 when it should be 0.
+NN output for number 1110000001 is: 0.000214262 when it should be 0.
+NN output for number 1110000010 is: 3.16865e-05 when it should be 0.
+NN output for number 1110000011 is: 4.09263e-14 when it should be 0.
+NN output for number 1110000100 is: 2.71791e-15 when it should be 0.
+NN output for number 1110000101 is: 1.23594e-08 when it should be 0.
+NN output for number 1110000110 is: 1.74013e-05 when it should be 0.
+NN output for number 1110000111 is: 1.09634e-12 when it should be 0.
+NN output for number 1110001000 is: 2.65961e-15 when it should be 0.
+NN output for number 1110001001 is: 2.03063e-07 when it should be 0.
+NN output for number 1110001010 is: 2.65955e-15 when it should be 0.
+NN output for number 1110001011 is: 1 when it should be 1.
+NN output for number 1110001100 is: 2.66682e-15 when it should be 0.
+NN output for number 1110001101 is: 1.36755e-15 when it should be 0.
+NN output for number 1110001110 is: 4.55364e-15 when it should be 0.
+NN output for number 1110001111 is: 0.997296 when it should be 1.
+NN output for number 1110010000 is: 2.65961e-15 when it should be 0.
+NN output for number 1110010001 is: 3.38087e-05 when it should be 0.
+NN output for number 1110010010 is: 2.5487e-15 when it should be 0.
+NN output for number 1110010011 is: 1 when it should be 0.
+NN output for number 1110010100 is: 2.62024e-12 when it should be 0.
+NN output for number 1110010101 is: 3.37056e-05 when it should be 0.
+NN output for number 1110010110 is: 5.22329e-08 when it should be 0.
+NN output for number 1110010111 is: 1 when it should be 1.
+NN output for number 1110011000 is: 2.65975e-15 when it should be 0.
+NN output for number 1110011001 is: 2.66438e-15 when it should be 0.
+NN output for number 1110011010 is: 2.6592e-15 when it should be 0.
+NN output for number 1110011011 is: 0.000352716 when it should be 0.
+NN output for number 1110011100 is: 4.44535e-15 when it should be 0.
+NN output for number 1110011101 is: 0.00078891 when it should be 0.
+NN output for number 1110011110 is: 2.65924e-15 when it should be 0.
+NN output for number 1110011111 is: 3.01127e-13 when it should be 0.
+NN output for number 1110100000 is: 0.000205447 when it should be 0.
+NN output for number 1110100001 is: 0.999689 when it should be 1.
+NN output for number 1110100010 is: 8.29107e-05 when it should be 0.
+NN output for number 1110100011 is: 2.27738e-06 when it should be 0.
+NN output for number 1110100100 is: 0.000200786 when it should be 0.
+NN output for number 1110100101 is: 0.000583789 when it should be 0.
+NN output for number 1110100110 is: 1.88175e-05 when it should be 0.
+NN output for number 1110100111 is: 8.23947e-13 when it should be 0.
+NN output for number 1110101000 is: 2.66159e-15 when it should be 0.
+NN output for number 1110101001 is: 0.996132 when it should be 1.
+NN output for number 1110101010 is: 2.66657e-15 when it should be 0.
+NN output for number 1110101011 is: 0.000386413 when it should be 0.
+NN output for number 1110101100 is: 0.000206797 when it should be 0.
+NN output for number 1110101101 is: 1 when it should be 1.
+NN output for number 1110101110 is: 1.08682e-05 when it should be 0.
+NN output for number 1110101111 is: 2.49837e-14 when it should be 0.
+NN output for number 1110110000 is: 2.66117e-15 when it should be 0.
+NN output for number 1110110001 is: 0.000348761 when it should be 0.
+NN output for number 1110110010 is: 2.72234e-15 when it should be 0.
+NN output for number 1110110011 is: 1 when it should be 1.
+NN output for number 1110110100 is: 2.67872e-15 when it should be 0.
+NN output for number 1110110101 is: 8.08241e-14 when it should be 0.
+NN output for number 1110110110 is: 2.65799e-15 when it should be 0.
+NN output for number 1110110111 is: 0.00250558 when it should be 0.
+NN output for number 1110111000 is: 2.66318e-15 when it should be 0.
+NN output for number 1110111001 is: 2.86233e-15 when it should be 1.
+NN output for number 1110111010 is: 2.7913e-15 when it should be 0.
+NN output for number 1110111011 is: 2.99606e-15 when it should be 0.
+NN output for number 1110111100 is: 2.68591e-15 when it should be 0.
+NN output for number 1110111101 is: 8.95605e-06 when it should be 0.
+NN output for number 1110111110 is: 2.66278e-15 when it should be 0.
+NN output for number 1110111111 is: 3.33549e-15 when it should be 0.
+NN output for number 1111000000 is: 4.20026e-15 when it should be 0.
+NN output for number 1111000001 is: 0.000113208 when it should be 0.
+NN output for number 1111000010 is: 1.75383e-05 when it should be 0.
+NN output for number 1111000011 is: 3.71496e-13 when it should be 0.
+NN output for number 1111000100 is: 2.66019e-15 when it should be 0.
+NN output for number 1111000101 is: 3.42365e-14 when it should be 0.
+NN output for number 1111000110 is: 2.84197e-12 when it should be 0.
+NN output for number 1111000111 is: 1 when it should be 1.
+NN output for number 1111001000 is: 2.65958e-15 when it should be 0.
+NN output for number 1111001001 is: 0.00542768 when it should be 0.
+NN output for number 1111001010 is: 1.20944e-05 when it should be 0.
+NN output for number 1111001011 is: 1.36018e-15 when it should be 1.
+NN output for number 1111001100 is: 2.65983e-15 when it should be 0.
+NN output for number 1111001101 is: 0.00138288 when it should be 0.
+NN output for number 1111001110 is: 2.65878e-15 when it should be 0.
+NN output for number 1111001111 is: 2.01099e-08 when it should be 0.
+NN output for number 1111010000 is: 2.65961e-15 when it should be 0.
+NN output for number 1111010001 is: 1 when it should be 1.
+NN output for number 1111010010 is: 2.65948e-15 when it should be 0.
+NN output for number 1111010011 is: 0.0150517 when it should be 0.
+NN output for number 1111010100 is: 0.000171219 when it should be 0.
+NN output for number 1111010101 is: 2.95727e-15 when it should be 0.
+NN output for number 1111010110 is: 2.64737e-15 when it should be 0.
+NN output for number 1111010111 is: 1.36873e-15 when it should be 1.
+NN output for number 1111011000 is: 2.66302e-15 when it should be 0.
+NN output for number 1111011001 is: 2.76332e-15 when it should be 0.
+NN output for number 1111011010 is: 2.65925e-15 when it should be 0.
+NN output for number 1111011011 is: 0.00306671 when it should be 0.
+NN output for number 1111011100 is: 2.91346e-15 when it should be 0.
+NN output for number 1111011101 is: 4.80012e-15 when it should be 0.
+NN output for number 1111011110 is: 4.49791e-06 when it should be 0.
+NN output for number 1111011111 is: 0.997096 when it should be 1.
+NN output for number 1111100000 is: 4.40363e-11 when it should be 0.
+NN output for number 1111100001 is: 1.03689e-05 when it should be 0.
+NN output for number 1111100010 is: 1.31155e-07 when it should be 0.
+NN output for number 1111100011 is: 2.061e-05 when it should be 0.
+NN output for number 1111100100 is: 0.000126859 when it should be 0.
+NN output for number 1111100101 is: 0.996943 when it should be 1.
+NN output for number 1111100110 is: 1.32735e-05 when it should be 0.
+NN output for number 1111100111 is: 7.13537e-14 when it should be 0.
+NN output for number 1111101000 is: 2.66284e-15 when it should be 0.
+NN output for number 1111101001 is: 5.69956e-05 when it should be 0.
+NN output for number 1111101010 is: 2.69258e-15 when it should be 0.
+NN output for number 1111101011 is: 1.13038e-05 when it should be 0.
+NN output for number 1111101100 is: 0.011653 when it should be 0.
+NN output for number 1111101101 is: 6.36237e-14 when it should be 0.
+NN output for number 1111101110 is: 2.65199e-15 when it should be 0.
+NN output for number 1111101111 is: 4.64898e-14 when it should be 0.
+NN output for number 1111110000 is: 2.68296e-15 when it should be 0.
+NN output for number 1111110001 is: 0.997747 when it should be 1.
+NN output for number 1111110010 is: 2.73069e-15 when it should be 0.
+NN output for number 1111110011 is: 1.41438e-06 when it should be 0.
+NN output for number 1111110100 is: 2.65967e-15 when it should be 0.
+NN output for number 1111110101 is: 0.999999 when it should be 1.
+NN output for number 1111110110 is: 1.69073e-05 when it should be 0.
+NN output for number 1111110111 is: 1.82864e-06 when it should be 0.
+NN output for number 1111111000 is: 2.6673e-15 when it should be 0.
+NN output for number 1111111001 is: 2.74016e-15 when it should be 0.
+NN output for number 1111111010 is: 2.6732e-15 when it should be 0.
+NN output for number 1111111011 is: 0.996718 when it should be 1.
+NN output for number 1111111100 is: 2.72182e-15 when it should be 0.
+NN output for number 1111111101 is: 1 when it should be 1.
+NN output for number 1111111110 is: 2.64735e-15 when it should be 0.
+NN output for number 1111111111 is: 6.97505e-15 when it should be 0.
