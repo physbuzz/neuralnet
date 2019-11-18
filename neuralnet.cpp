@@ -124,8 +124,8 @@ void constructWeights(){
         for(size_t i=0;i<n[l];i++){
             for(size_t j=0;j<n[l+1];j++){
                 ScalarType &elem=w[l][i*n[l+1]+j];
-                if(i==0 ) {
-                    if(j==0)
+                if(j==0 ) {
+                    if(i==0)
                         elem=1;
                     else 
                         elem=0;
@@ -158,9 +158,10 @@ void deleteOutputsAndDelta(){
 }
 
 void hitWithSigma(VectorType v, size_t N){
-    for(size_t i=0;i<N;i++){
+    for(size_t i=1;i<N;i++){
         v[i]=sigma(v[i]);
     }
+    v[0]=1;
 }
 void zeroStepPhase(){
     for(size_t l=0;l<L-1;l++){
@@ -243,7 +244,6 @@ void stepPhaseCommit(double alpha){
             }
         }
     }
-    zeroStepPhase();
 }
 
 /* ============================= Data Loading + saving ========================== */
@@ -288,17 +288,18 @@ int loadPrimesCSV(){
 double naiveStep(double alpha){
     double error=0;
     zeroStepPhase();
-    for(int n=0;n<1024;n++){
+
+    for(int nn=0;nn<1024;nn++){
         //Initialize the inputs
         for(size_t i=0;i<11;i++){
-            o[0][i]=allData[n*13+i];
+            o[0][i]=allData[nn*13+i];
         }
         forwardPhase();
         //cout<<"Output should be 1: "<<o[L-1][1]<<endl;
 
-        error+=(o[L-1][1]-allData[n*13+12])*(o[L-1][1]-allData[n*13+12]);
+        error+=(o[L-1][1]-allData[nn*13+12])*(o[L-1][1]-allData[nn*13+12]);
         for(size_t j=0;j<2;j++){
-            delta[L-1][j]=o[L-1][j]*(1-o[L-1][j])*(o[L-1][j]-allData[n*13+11+j]);
+            delta[L-1][j]=o[L-1][j]*(1-o[L-1][j])*(o[L-1][j]-allData[nn*13+11+j]);
         }
 
         backwardPhase();
@@ -341,6 +342,7 @@ int main(){
     if(loadPrimesCSV())
         return 1;
 
+
     double e=computeTotalError();
     //cout<<"Total error with random weights: "<<e<<endl;
     //cin.get();
@@ -353,11 +355,11 @@ int main(){
     for(int k=0;k<500000;k++){
 
         double newError=naiveStep(alpha);
-        if(abs(newError-error)>10)                 {
+        if(abs(newError-error)>10){
             alpha=clamp(alpha/(mult*mult*mult),min_rate,max_rate);
             incrctr=0;
         }
-        else if(abs(newError-error)>1) {
+        else if(abs(newError-error)>1){
             alpha=clamp(alpha/(mult),min_rate,max_rate);
             incrctr=0;
         }
@@ -383,16 +385,16 @@ int main(){
             cout<<endl;
         }
     }
-    for(int n=0;n<1024;n++){
+    for(int nn=0;nn<1024;nn++){
         cout<<"NN output for number ";
         for(size_t i=0;i<11;i++){
-            o[0][i]=allData[n*13+i];
+            o[0][i]=allData[nn*13+i];
             if(i>0)
                 cout<<o[0][i];
         }
         cout<<" is: ";
         forwardPhase();
-        cout<<o[L-1][1]<<" when it should be "<<allData[n*13+12]<<"."<<endl;
+        cout<<o[L-1][1]<<" when it should be "<<allData[nn*13+12]<<"."<<endl;
     }
 
 
