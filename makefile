@@ -1,5 +1,5 @@
 neuralnet: neuralnet.cpp
-	g++ -o neuralnet -g neuralnet.cpp
+	g++ -o neuralnet -O3 neuralnet.cpp
 
 run: neuralnet
 	./neuralnet	

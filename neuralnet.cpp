@@ -17,10 +17,10 @@ typedef ScalarType* VectorType;
 /* ======================================== Globals ================================== */
 
 //Number of NN layers
-const size_t L=5;
+const size_t L=4;
 
 //Number of neurons +1 in each layer. n[0]-1 is the number of inputs, n[L-1]-1 is the number of outputs.
-size_t n[]={11,11,8,4,2};
+size_t n[]={11,11,11,2};
 
 //Outputs. Each o[l] is a vector with n[l] rows and o[0]=1 (this allows us to calculate weights more easily)
 //We store the outputs, which is sigma(activation), because this is the thing we do vector and matrix operations to.
@@ -198,6 +198,7 @@ void forwardPhase(){
         VectorType tmp=o[l+1];
         o[l+1]=vectorMatrixMultiply(o[l],w[l],n[l],n[l+1]);
         hitWithSigma(o[l+1],n[l+1]);
+        o[l+1][0]=1;
         delete[] tmp;
     }
 }
@@ -209,10 +210,7 @@ void forwardPhase(){
  * */
 void backwardPhase(){
     for(int l=L-2;l>=0;l--){
-        //cout<<"l is: "<<l<<", n[l] is: "<<n[l]<<endl;
-
         VectorType tmp=delta[l];
-
         delta[l]=matrixVectorMultiply(w[l],delta[l+1],n[l],n[l+1]);
         for(int i=0;i<n[l];i++){
             delta[l][i]*=o[l][i]*(1-o[l][i]);
